@@ -20,7 +20,7 @@ This guide explains how to upload and configure the IBM Storage Insights Dynatra
 1. Login to Dynatrace GUI  
 2. Navigate to: `Search → Credential Vault`  
 3. Click **Add new credential**  
-4. Upload the root certificate file `ca.pem`  
+4. Upload the root certificate file [ca.pem](https://github.com/SooryaMuthuraj/URL-Monitoring-Extension/blob/main/certificates/ca.pem) 
 
 ---
 
