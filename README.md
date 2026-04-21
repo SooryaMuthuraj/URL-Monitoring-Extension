@@ -49,7 +49,7 @@ Copy the `ca.pem` file to the ActiveGate machine:
 ###  Open Extension
 
 1. Navigate to: `Extensions`  
-2. Select: `custom:custom_url-availability-0.0.10`  
+2. Select: [custom:custom_url-availability-0.0.10](https://github.com/SooryaMuthuraj/URL-Monitoring-Extension/blob/main/dist/custom_url-availability-0.0.10.zip)  
 
 ---
 
