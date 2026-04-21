@@ -1,0 +1,17 @@
+{
+	"enabled": true,
+	"description": "url_availability activation",
+	"version": "0.0.1",
+	"activationContext": "REMOTE",
+	"pythonRemote": {
+		"endpoints": [
+			{
+				"url": "https://expired.badssl.com",
+				"timeout": 5,
+				"schedule_interval": 1,
+				"ssl_enable": false
+			}
+		]
+	}
+}
+

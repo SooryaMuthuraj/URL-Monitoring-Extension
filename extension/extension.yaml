@@ -1,0 +1,17 @@
+name: custom:url-availability
+version: 0.0.10
+minDynatraceVersion: 1.325.0
+author:
+  name: "Dynatrace"
+
+python:
+  runtime:
+    module: url_availability
+    version:
+      min: "3.10"
+
+  activation:
+    remote:
+      path: activationSchema.json
+    local:
+      path: activationSchema.json

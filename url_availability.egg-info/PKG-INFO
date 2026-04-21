@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: url-availability
+Version: 0.0.10
+Summary: url_availability python EF2 extension
+Author: Dynatrace
+Requires-Python: >=3.10
+Provides-Extra: dev
